@@ -1,2 +1,2 @@
 # terraform-configurations
-Terraform configurations
+Configurations Terraform
